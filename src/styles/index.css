@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(218, 216, 216);
+}
+
+.navbar-logo {
+    height: 40px;
+    margin-left: 300px;
+}
+.favorites-nav {
+    padding: 10px;
+    font-style: none;
+}
+.card {
+    width: 18rem;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+.favorite-icon {
+    display: inline-block;
+    margin: 10px;
+}
+.card-img-top {
+    height: 250px;
+    width: 400px;
+}
+.container-details {
+    background-color: white;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.img-fluid {
+width: 600px;
+height: 450px;
+margin: 10px;
+}
+.fa-trash-can {
+    color: black;
+}
